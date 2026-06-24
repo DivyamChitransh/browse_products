@@ -63,7 +63,7 @@ GET /api/products?category=sports
 ### Create Product
 
 ```http
-POST /api/products
+POST /api/products/add
 ```
 
 Body:
