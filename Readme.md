@@ -118,8 +118,4 @@ Database: Neon PostgreSQL
 
 ## Live URL
 
-<render-url>
-
-## Repository
-
-<github-url>
+https://browse-products.onrender.com/
